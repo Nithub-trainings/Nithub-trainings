@@ -28,7 +28,7 @@ Feel free to leave us a message.
 
  <a href="https://www.linkedin.com/company/nithub/" alt="LinkedIn"><img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
-<a href="https://www.instagram.com/nithub_lag/" alt="LinkedIn"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+<a href="https://www.instagram.com/nithub_lag/" alt="Instagram"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 "/></a>
  
 </p>   
