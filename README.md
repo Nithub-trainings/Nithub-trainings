@@ -33,12 +33,12 @@ Feel free to leave us a message.
 [contributors-url]: [https://github.com/Nithub-trainings/Nithub-trainings/graphs/contributors]
 
 [forks-shield]: https://img.shields.io/github/forks/Nithub-trainings/Nithub-trainings.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/Nithub-trainings/Nithub-trainings/network/members
 
 [stars-shield]: https://img.shields.io/github/stars/Nithub-trainings/Nithub-trainings.svg?style=for-the-badge
 [stars-url]: [https://github.com/Nithub-trainings/Nithub-trainings/stargazers]
 
-[website-shield]: https://img.shields.io/badge/website-nithub-lightgrey
+[website-shield]: https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=up&url=https%3A%2F%2Fnithub.unilag.edu.ng%2Fcategory%2Ftraining%2F
 [website-url]: https://nithub.unilag.edu.ng/category/training/
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
