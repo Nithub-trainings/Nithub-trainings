@@ -13,7 +13,9 @@
 
 ### At NitHub, we offer a wide range of training programs including:
 💻 [HatchDev Full Stack Training][hatchdev-url]
+
 💡 [Data Structures and Algorithms Bootcamp][hatchdev-url]
+
 📚 [NitKids and NitTeens][nitkids-url]
 
 Star our repo, to view the awesome projects our trainees are building.🥳
