@@ -18,7 +18,7 @@
 
 📚 [NitKids and NitTeens](https://nithub.unilag.edu.ng/nitkids-nitteens/)
 
-Star our repo, to view the awesome projects our trainees are building.🥳
+**Star our repo, to view the awesome projects our trainees are building**.🥳
 
 <!-- Social icons section -->
 ### Curious about the next program?
