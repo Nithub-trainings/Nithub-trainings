@@ -8,7 +8,7 @@
 
 ### At NitHub, we
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=70&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Build;Innnovate;Create)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sherif&size=70&pause=900&color=305042&center=true&vCenter=true&width=1000&height=100&lines=Innnovate;Collaborate;Create;Ideate)](https://git.io/typing-svg)
 
 
 ### At NitHub, we offer a wide range of training programs including:
